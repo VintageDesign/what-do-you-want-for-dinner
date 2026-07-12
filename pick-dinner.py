@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
 import json
+import os
 import random
 from datetime import datetime, date
+from pathlib import Path
 import numpy as np
 """
 Radomly selects dinners based on the additional metadata provided. Currently, the script only supports weighting the meals with the season.
@@ -29,8 +31,10 @@ Potential new metadata:
 """
 
 def main():
+    config_dir = Path(os.getenv("DINNER_CONFIG_DIR", "~/.config/dinners")).expanduser()
+    dinner_file_path = config_dir / "list.json"
 
-    with open("/home/riley/.config/dinners/list.json", 'r', encoding='utf-8') as dinner_file:
+    with open(dinner_file_path, 'r', encoding='utf-8') as dinner_file:
         dinner = json.load(dinner_file)
 
 
