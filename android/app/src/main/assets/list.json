@@ -1,0 +1,218 @@
+[
+  { 
+    "name": "Thai curry",
+    "season": "any"
+  },
+  { 
+    "name": "Whole chicken",
+    "season": "summer"
+  },
+  { 
+    "name": "Pizza",
+    "season": "any"
+  },
+  { 
+    "name": "Burritos",
+    "season": "any"
+  },
+  { 
+    "name": "Breakfast burritos",
+    "season": "any"
+  },
+  { 
+    "name": "Birria tacos",
+    "season": "any"
+  },
+  { 
+    "name": "Steak and sweet potato tacos",
+    "season": "any"
+  },
+  { 
+    "name": "Nachos",
+    "season": "any"
+  },
+  { 
+    "name": "Ribs",
+    "season": "any"
+  },
+  { 
+    "name": "Chicken wings",
+    "season": "any"
+  },
+  { 
+    "name": "Stew",
+    "season": "winter"
+  },
+  { 
+    "name": "Pork & Veggie",
+    "season": "any"
+  },
+  { 
+    "name": "Chicken & veggie",
+    "season": "any"
+  },
+  { 
+    "name": "Chicken Pesto",
+    "season": "any"
+  },
+  { 
+    "name": "Fillet minon",
+    "season": "any"
+  },
+  { 
+    "name": "Meatball subs",
+    "season": "any"
+  },
+  { 
+    "name": "Breakfast for dinner",
+    "season": "any"
+  },
+  {
+    "name": "White people spaghetti",
+    "season": "any"
+  },
+  {
+    "name": "Fancy people spaghetti",
+    "season": "any"
+  },
+  {
+    "name": "Hamburgers",
+    "season": "any"
+  },
+  {
+    "name": "Brauts",
+    "season": "any"
+  },
+  {
+    "name": "Dino chicken parm",
+    "season": "any"
+  },
+  {
+    "name": "Pesto pasta",
+    "season": "any"
+  },
+  {
+    "name": "Chicken Parmesan",
+    "season": "any"
+  },
+  {
+    "name": "Chilli and corn bread/cinnamon rolls",
+    "season": "winter"
+  },
+  {
+    "name": "Baked potato soup",
+    "season": "winter"
+  },
+  {
+    "name": "Pot roast",
+    "season": "winter"
+  },
+  {
+    "name": "Curry",
+    "season": "any"
+  },
+  {
+    "name": "Egg drop soup",
+    "season": "winter"
+  },
+  {
+    "name": "Ham and corn chowder",
+    "season": "winter"
+  },
+  {
+    "name": "Ravioli and sauce of choice",
+    "season": "any"
+  },
+  {
+    "name": "Marry me chicken with pasta",
+    "season": "any"
+  },
+  {
+    "name": "Red beans and rice",
+    "season": "any"
+  },
+  {
+    "name": "Cajun Alfredo",
+    "season": "any"
+  },
+  {
+    "name": "Enchiladas",
+    "season": "any"
+  },
+  {
+    "name": "Fish and veggie",
+    "season": "any"
+  },
+  {
+    "name": "Breakfast",
+    "season": "any"
+  },
+  {
+    "name": "Bang bang tofu",
+    "season": "any"
+  },
+  {
+    "name": "Red pepper tomato pasta",
+    "season": "any"
+  },
+  {
+    "name": "Korean sticky beef",
+    "season": "any"
+  },
+  {
+    "name": "Stir fry",
+    "season": "any"
+  },
+  {
+    "name": "Chicken pot pie",
+    "season": "any"
+  },
+  {
+    "name": "Butter chicken",
+    "season": "any"
+  },
+  {
+    "name": "Tomato soup and grilled cheese",
+    "season": "any"
+  },
+  {
+    "name": "Fancy Mac and cheese",
+    "season": "any"
+  },
+  {
+    "name": "Salad night",
+    "season": "any"
+  },
+  {
+    "name": "Sheet pan dinner",
+    "season": "any"
+  },
+  {
+    "name": "Pad thai",
+    "season": "any"
+  },
+  {
+    "name": "Beef and broccoli",
+    "season": "any"
+  },
+  {
+    "name": "Spicy tuna bowls",
+    "season": "any"
+  },
+  {
+    "name": "Chicken caprese",
+    "season": "any"
+  },
+  {
+    "name": "Chicken and waffles",
+    "season": "any"
+  },
+  {
+    "name": "Shiskabobs",
+    "season": "any"
+  },
+  {
+    "name": "Fajitas",
+    "season": "any"
+  }
+]
